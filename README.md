@@ -19,10 +19,10 @@ Aqui você encontrará projetos relacionados a:
 
 Siga-me nas minhas redes sociais para acompanhar meus projetos e publicações:
 
-- **Instagram**: [@seu_usuario](https://www.instagram.com/seu_usuario) 📸
-- **Facebook**: [Seu Perfil](https://www.facebook.com/seu_perfil) 📘
+- **Instagram**: [@seu_usuario](https://www.instagram.com/danilo.mtj) 📸
+- **Facebook**: [Seu Perfil](https://www.facebook.com/Danilo Mota) 📘
 - **LinkedIn**: [Seu Perfil](https://www.linkedin.com/in/seu_perfil) 💼
-- **WhatsApp**: [Envie uma mensagem](https://wa.me/seu_numero) 💬
+- **WhatsApp**: [Envie uma mensagem](https://wa.me/seu número) 💬
 - **YouTube**: [Seu Canal](https://www.youtube.com/seu_canal) 🎥
 
 ## 🤝 Contato
